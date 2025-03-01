@@ -161,6 +161,35 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [RedTeamGPT](https://chat.openai.com/g/g-j8ldT0QAO-redteamgpt): Advanced guide in red teaming, pentest, attack and cybersecurity.
 * [DFIR-GPT](https://chat.openai.com/g/g-11Pfha6Uq-dfir-gpt): A GPT Agent that tries to provide Digital Forensics and Incident Response (DFIR) technical advice and guidance. 
 
+NEW >>>>>>>>>>>
+
+PenTester Reporter GPT: https://lnkd.in/dBUvsYEB
+
+H4x0r GPT: https://lnkd.in/dMr2hqDH
+
+Web Hacking Wizard: https://lnkd.in/d9Nuq5Kf
+
+Malware Analyst GPT: https://lnkd.in/dqzdvGe9
+
+Mitre Att&ck GPT: https://lnkd.in/dubYidpi
+
+Threat Intel Bot: https://lnkd.in/dHhjpyK6
+
+Cyber Security Ninja (Incident Response Assistant): https://lnkd.in/dgJbqBju
+
+ATT&CK Mate (ATT&CK Knowledge Base): https://lnkd.in/dtCvyDsY
+
+Message Header Analysis GPT:  https://lnkd.in/dJF6rTqV
+
+Red Team Guides GPT: https://lnkd.in/dx9Fzx_z
+
+HackTricksGPT: https://lnkd.in/d-C3H_zg
+
+MagicUnprotect (Unprotect DB knowledge about malware evasion techniques): https://lnkd.in/dCbxTn9W
+
+Bug Bounty Assistant (Conversational guide on web app security, you can provide request/responses.): https://lnkd.in/drK4ASqR
+
+AppSec and Bug Bounty GPT: https://chat.openai.com/g/g-Rsk7ADgbD-bugbountygpt
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
 Want to add another cybersecurity agent. Create a pull request with the tool by following the list above. 
