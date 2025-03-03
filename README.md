@@ -160,21 +160,47 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [FridaGPT](https://chat.openai.com/g/g-KwZVA8dTp-fridagpt): A Frida focussed GPT to help reverse engineers in writing Frida scripts.
 * [RedTeamGPT](https://chat.openai.com/g/g-j8ldT0QAO-redteamgpt): Advanced guide in red teaming, pentest, attack and cybersecurity.
 * [DFIR-GPT](https://chat.openai.com/g/g-11Pfha6Uq-dfir-gpt): A GPT Agent that tries to provide Digital Forensics and Incident Response (DFIR) technical advice and guidance. 
+- **[PenTester Reporter GPT](https://huggingface.co/spaces/offlinehacker/pentester-reporter-gpt)**  
+  *Helps generate detailed penetration testing reports, automating the documentation of vulnerabilities and exploits found.*  
 
-- [PenTester Reporter GPT](https://huggingface.co/spaces/offlinehacker/pentester-reporter-gpt)  
-- [H4x0r GPT](https://huggingface.co/spaces/offlinehacker/h4x0r-gpt)  
-- [Web Hacking Wizard](https://huggingface.co/spaces/offlinehacker/web-hacking-wizard)  
-- [Malware Analyst GPT](https://huggingface.co/spaces/offlinehacker/malware-analyst-gpt)  
-- [Mitre ATT&CK GPT](https://huggingface.co/spaces/offlinehacker/mitre-attck-gpt)  
-- [Threat Intel Bot](https://huggingface.co/spaces/offlinehacker/threat-intel-bot)  
-- [Cyber Security Ninja (Incident Response Assistant)](https://huggingface.co/spaces/offlinehacker/cyber-security-ninja)  
-- [ATT&CK Mate (ATT&CK Knowledge Base)](https://huggingface.co/spaces/offlinehacker/attack-mate)  
-- [Message Header Analysis GPT](https://huggingface.co/spaces/offlinehacker/message-header-analysis-gpt)  
-- [Red Team Guides GPT](https://huggingface.co/spaces/offlinehacker/red-team-guides-gpt)  
-- [HackTricksGPT](https://huggingface.co/spaces/offlinehacker/hacktricksgpt)  
-- [MagicUnprotect (Unprotect DB knowledge about malware evasion techniques)](https://huggingface.co/spaces/offlinehacker/magicunprotect)  
-- [Bug Bounty Assistant (Conversational guide on web app security, you can provide request/responses.)](https://huggingface.co/spaces/offlinehacker/bug-bounty-assistant)  
-- [AppSec and Bug Bounty GPT](https://chat.openai.com/g/g-Rsk7ADgbD-bugbountygpt)  
+- **[H4x0r GPT](https://huggingface.co/spaces/offlinehacker/h4x0r-gpt)**  
+  *An assistant for ethical hackers and penetration testers, focused on system exploitation and security assessments.*  
+
+- **[Web Hacking Wizard](https://huggingface.co/spaces/offlinehacker/web-hacking-wizard)**  
+  *Specialized in web security, assisting in exploiting vulnerabilities like SQL Injection, XSS, and CSRF.*  
+
+- **[Malware Analyst GPT](https://huggingface.co/spaces/offlinehacker/malware-analyst-gpt)**  
+  *Assists in malware analysis, helping identify malicious patterns, obfuscation, and evasion techniques.*  
+
+- **[Mitre ATT&CK GPT](https://huggingface.co/spaces/offlinehacker/mitre-attck-gpt)**  
+  *Based on the MITRE ATT&CK framework, providing insights into techniques used by malicious actors for cyberattacks.*  
+
+- **[Threat Intel Bot](https://huggingface.co/spaces/offlinehacker/threat-intel-bot)**  
+  *Provides cybersecurity threat intelligence, aiding in research on threat actors and attack methods.*  
+
+- **[Cyber Security Ninja (Incident Response Assistant)](https://huggingface.co/spaces/offlinehacker/cyber-security-ninja)**  
+  *A tool designed for incident response, helping security professionals mitigate cyberattacks in real time.*  
+
+- **[ATT&CK Mate (ATT&CK Knowledge Base)](https://huggingface.co/spaces/offlinehacker/attack-mate)**  
+  *An interactive guide to the MITRE ATT&CK framework, simplifying the understanding and application of its techniques.*  
+
+- **[Message Header Analysis GPT](https://huggingface.co/spaces/offlinehacker/message-header-analysis-gpt)**  
+  *Assists in analyzing email headers to detect phishing attempts, spoofing, and trace malicious senders.*  
+
+- **[Red Team Guides GPT](https://huggingface.co/spaces/offlinehacker/red-team-guides-gpt)**  
+  *An assistant for Red Team operations, providing insights into simulated attacks, social engineering, and intrusion tests.*  
+
+- **[HackTricksGPT](https://huggingface.co/spaces/offlinehacker/hacktricksgpt)**  
+  *Based on the HackTricks repository, providing techniques and methodologies for pentesters and ethical hackers.*  
+
+- **[MagicUnprotect (Unprotect DB knowledge about malware evasion techniques)](https://huggingface.co/spaces/offlinehacker/magicunprotect)**  
+  *Focused on malware evasion techniques, helping analysts understand methods used to bypass security defenses.*  
+
+- **[Bug Bounty Assistant (Conversational guide on web app security, you can provide request/responses.)](https://huggingface.co/spaces/offlinehacker/bug-bounty-assistant)**  
+  *An interactive guide for bug bounty hunters, offering support in identifying and exploiting web application vulnerabilities.*  
+
+- **[AppSec and Bug Bounty GPT](https://chat.openai.com/g/g-Rsk7ADgbD-bugbountygpt)**  
+  *Focused on application security and bug bounty programs, providing suggestions for security testing.*  
 
 AppSec and Bug Bounty GPT: https://chat.openai.com/g/g-Rsk7ADgbD-bugbountygpt
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
